@@ -1,21 +1,45 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# GestioCommunity – Projet Importé depuis AI Studio
 
-# Run and deploy your AI Studio app
+**Développé par : Arthur Della**  
+**Email : dyahaut@gmail.com**
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1biYsNFXQd4CuUYgzaEn2KedFuera7VeS
+## 🚀 Description
+GestioCommunity est une application conçue pour faciliter la gestion d’une communauté ou d’une organisation.  
+Ce projet a été initialement développé dans **Google AI Studio**, puis exporté et versionné avec Git & GitHub.
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 📌 Fonctionnalités principales
+- Gestion des membres
+- Gestion des rôles et accès
+- Suivi des activités
+- Interface moderne et responsive
+- Connexion via compte administrateur
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-# GestioCommunityf
+## 📂 Structure du projet
+- `src/` – Fichiers source  
+- `assets/` – Images, icônes et ressources  
+- `config/` – Paramètres et variables  
+- `app.*` – Fichiers principaux
+
+---
+
+## 🛠️ Technologies utilisées
+- AI Studio (Google)  
+- Git & GitHub  
+- JavaScript / Python / HTML / CSS  
+- Framework selon ton projet (React / Node.js / autre)
+
+---
+
+## ▶️ Installation
+```bash
+git clone URL_DU_DEPOT
+cd nom-du-projet
+npm install     # si c’est du JS
+# ou
+pip install -r requirements.txt  # si c’est du Python
